@@ -1,0 +1,16 @@
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\B201_14\Documents\xumoyunde\c_sharp\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
